@@ -1,0 +1,7 @@
+[package]
+name = "biserialis"
+version = "0.1.0"
+authors = ["Robin Voetter <robin@voetter.nl>"]
+edition = "2018"
+
+[dependencies]
